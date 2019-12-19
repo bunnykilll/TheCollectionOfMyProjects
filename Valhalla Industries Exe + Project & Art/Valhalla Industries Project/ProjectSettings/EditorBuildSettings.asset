@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BuildScenes/Menu.unity
+    guid: 12c8201261a788d4f85d0f5daebbea22
+  - enabled: 1
+    path: Assets/Scenes/BuildScenes/TutorialScene.unity
+    guid: d7c101633aca61e43bb4ef93c7ad4d0a
+  - enabled: 1
+    path: Assets/Scenes/BuildScenes/Options.unity
+    guid: 47184b9816927674e9d43b0ac381fe69
+  - enabled: 1
+    path: Assets/Scenes/BuildScenes/Credits.unity
+    guid: 96dda17fa60e1ee4a9e5e3d13e9946cc
+  - enabled: 1
+    path: Assets/Scenes/BuildScenes/ExtraCredits.unity
+    guid: a3152d0ef53dedc44ae1ba47dfd81344
+  - enabled: 1
+    path: Assets/Scenes/BuildScenes/SecondLevel.unity
+    guid: 022926353e7e17e46b3434dfec160f31
+  - enabled: 1
+    path: Assets/Scenes/BuildScenes/Minecraft.unity
+    guid: 96de729d4f5a1e64dac0a9ae71ec34d5
+  - enabled: 1
+    path: Assets/Scenes/BuildScenes/Cheats.unity
+    guid: f9338250b051c9d49a3ae79fb9dc3175
+  - enabled: 1
+    path: Assets/Scenes/BuildScenes/Story.unity
+    guid: 339d39af114da4742846e0c3658cfe74
+  - enabled: 1
+    path: Assets/Scenes/BuildScenes/EndGame.unity
+    guid: 61b475aaba571604f8ce3ef05504583f
+  m_configObjects: {}
