@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/FPS/Scripts/Game Scripts/Enemy/EnemyHealth.cs.meta
+guid: 005120a3c61bc2841bfada7b833e2fd3
+=======
+guid: 15bf368adf8d5294392311eb7a551bea
+>>>>>>> 1ecd59fe7f5a4b6870f95e7926ffefb41a99d41f:Assets/Enemypatrol.cs.meta
+=======
+guid: 370df91af6ba9064abbcdb178e38c09f
+>>>>>>> 1ecd59fe7f5a4b6870f95e7926ffefb41a99d41f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FPS/Scenes/Main Game Scene's/IntroMenu.unity
+    guid: 56e3faabc5bb30f49a68bb8f1292f988
+  - enabled: 1
+    path: Assets/FPS/Scenes/Main Game Scene's/HoofdScene.unity
+    guid: 6c48865f47ee4da45bf020877633ac1b
+  - enabled: 1
+    path: Assets/FPS/Scenes/Main Game Scene's/LoseScene.unity
+    guid: 72e5c65a45893714484002914e3fd521
+  - enabled: 1
+    path: Assets/FPS/Scenes/Main Game Scene's/WinScene.unity
+    guid: 037d06fbede2b4041a843d9ee6fe750c
+  m_configObjects: {}

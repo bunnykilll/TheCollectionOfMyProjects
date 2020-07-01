@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Justie3DA_Console01
+  m_Shader: {fileID: 4800000, guid: c6d9a4e9c56fa0a428d83901ab1ef025, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _ErrorOutput:
+        m_Texture: {fileID: 2800000, guid: 343e7812781185047b1f7b89577efa72, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: a421ec303bf4f7844b545513058da667, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha_BG: 0.048
+    - __dirty: 0
+    m_Colors:
+    - _BG_COlor: {r: 0, g: 0.8545451, b: 1, a: 1}
+    - _BG_Speed: {r: 0.3, g: 0, b: 0, a: 0}
+    - _Error_Color: {r: 4, g: 0.0627451, b: 0, a: 1}
+    - _Error_Speed: {r: 0, g: 1.86, b: 0, a: 0}
